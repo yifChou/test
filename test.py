@@ -1,1 +1,1 @@
-print("jenkins shell脚本测试")
+print("jenkins shell text")
