@@ -68,7 +68,7 @@ pyzmq==18.0.2
 queuelib==1.5.0
 rabbitmq==0.2.0
 redis==3.4.1
-requests==2.18.4
+requests==2.20.0
 selenium==3.141.0
 service-identity==18.1.0
 simplejson==3.17.0
